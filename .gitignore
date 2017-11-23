@@ -2,10 +2,6 @@
 *.o
 *.out
 
-#ignoruj sam plik gitignore
-.gitignore
-
-
 #ignoruj temp gedit
 *~
 
