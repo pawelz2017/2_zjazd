@@ -1,6 +1,10 @@
- #ignoruj wszystkie skompilowane plik
+#ignoruj wszystkie skompilowane plik
 *.o
 *.out
+
+#ignoruj sam plik gitignore
+.gitignore
+
 
 #ignoruj temp gedit
 *~
@@ -9,3 +13,6 @@
 .idea
 CMakeLists.txt
 cmake-build-debug
+
+
+rownanie_kwadratowe_tdd.c
