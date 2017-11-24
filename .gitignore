@@ -12,3 +12,6 @@ cmake-build-debug
 
 
 rownanie_kwadratowe_tdd.c
+export_testow.h
+
+rownanie-kw-tdd/
