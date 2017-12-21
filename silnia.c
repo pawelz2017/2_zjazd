@@ -14,6 +14,6 @@ int main()
 //        silnia *= i;
         silnia = silnia * i;
     }
-    printf("Silnia liczby: %lli, to: %lli", liczba, silnia);
+    printf("Silnia liczby: %lli, to: %lli\n", liczba, silnia);
     return 0;
 }
